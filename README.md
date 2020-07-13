@@ -16,6 +16,7 @@ Where can you find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-araujo-516987112)](https://www.linkedin.com/in/william-araujo-516987112)
 
+[![Gmail Badge](https://image.flaticon.com/icons/svg/281/281769.svg)](https://www.linkedin.com/in/william-araujo-516987112)
 
 <!--
 **TechWilli/TechWilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
