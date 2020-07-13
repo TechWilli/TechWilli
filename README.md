@@ -2,13 +2,13 @@
 
 Hi there, welcome to my Github! (Yeah!)
 My name is William Araujo. I'm from Brazil. I've been working as a front-end developer since 2019.
-I'm frequently adding new repositories with my personal projects and programming training. ᕦ(ò_óˇ)ᕤ
+I'm frequently adding new repositories with my personal projects and programming training.
+ᕦ(ò_óˇ)ᕤ
 
-Who is William at his free time?
-Good question! In my free time a enjoy:
-Watching movies and series (📺);
-Reading books and japanese mangas (📚);
-Listening to music (🎵)
+Who is William at his free time? Good question! In my free time a enjoy:
+Watching movies and series (📺).
+Reading books and japanese mangas (📚).
+Listening to music (🎵).
 Coding (💻).
 
 Where can you find me?
