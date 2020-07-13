@@ -8,7 +8,7 @@ I'm frequently adding new repositories with my personal projects and programming
 
 **I'm on my way to be a great programmer!**
 
-Who is William at his free time? Good question! In my free time I enjoy:
+Who is William at his free time? Good question! In his free time he enjoys:
 - Watching movies and series (📺)
 - Reading books and japanese mangas (📚)
 - Listening to music (🎵)
