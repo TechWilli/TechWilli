@@ -14,7 +14,7 @@ Who is William at his free time? Good question! In my free time I enjoy:
 
 Where can you find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-araujo-516987112)](https://www.linkedin.com/in/william-araujo-516987112)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-araujo-516987112)
 
 <!--
 **TechWilli/TechWilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
