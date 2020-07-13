@@ -3,6 +3,7 @@
 Hi there, welcome to my Github! (Yeah!)
 
 My name is **William Araujo**. I'm from Brazil. I've been working as a **front-end developer** since 2019.
+
 I'm frequently adding new repositories with my personal projects and programming training here at github. ᕦ(ò_óˇ)ᕤ
 
 **I'm on my way to be a great programmer!**
