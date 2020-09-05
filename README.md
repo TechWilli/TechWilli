@@ -17,11 +17,12 @@ Who is William at his free time? Good question! In his free time he enjoys:
 Where can you find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-araujo-516987112)
-[![Gmail Badge](https://img.shields.io/badge/-williamf1f2@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:williamf1f2@gmail.com)](mailto:williamf1f2@gmail.com)
 
 
 <!--
 **TechWilli/TechWilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Gmail Badge](https://img.shields.io/badge/-williamf1f2@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:williamf1f2@gmail.com)](mailto:williamf1f2@gmail.com)
 
 Here are some ideas to get you started:
 
